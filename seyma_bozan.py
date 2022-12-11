@@ -46,14 +46,3 @@ def print_full_report(Kredi_tutari, Yillik_faiz_orani, Yineleme_araligi, Maksimu
 print_full_report(Kredi_tutari, Yillik_faiz_orani, Yineleme_araligi, Maksimum_yil, Maksimum_ay, Toplam_odeme, İsim)
 
 c=print()
-
-
-
-
-
-
-
-
-
-
-
