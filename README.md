@@ -1,1 +1,1 @@
-# python
+# Python Faiz Hesaplayıcı
