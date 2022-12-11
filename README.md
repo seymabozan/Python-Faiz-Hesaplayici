@@ -1,1 +1,1 @@
-# Python Faiz Hesaplayıcı Sistem
+# Python Faiz Hesaplama
